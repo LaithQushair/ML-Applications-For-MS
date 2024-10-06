@@ -1,2 +1,2 @@
-# team10-medical_applications
+# ML-Applications-For-MS
 Biomedical Applications
